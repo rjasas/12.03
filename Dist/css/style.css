@@ -54,6 +54,8 @@ h1 {
     margin-bottom: 0; 
 }
 
+/* ------------------------FORM------------------------------ */
+
 .emailBar {
     width: 20%;
     margin: 0 auto;
@@ -87,6 +89,8 @@ h1 {
     cursor: pointer;
 }
 
+/* ----------------------FORM END--------------------------------- */
+
 .mouse {
     margin: 20px auto;
     border: 3px solid white;
@@ -99,6 +103,8 @@ span {
     font-weight: 3px;
     color: white;
 }
+
+/* --------------------------MIDDLE SECTION----------------------- */
 
 .middleSection {
     width: 50%;
@@ -119,6 +125,8 @@ span {
     font-weight: bold;
     color: rgba(248,65,35);
 }
+
+/* -------------------------DIAGRAMA-------------------------- */
 
 .ux {
     width: 100%;
@@ -185,6 +193,8 @@ span {
     color: black;
 }
 
+/* ----------------------DIAGRAMA END------------------------ */
+
 .rightContainer {
     width: 50%;
     padding-left: 80px;
@@ -199,6 +209,8 @@ span {
     font-weight: bold;
     color: rgba(248,65,35);
 }
+
+/* ---------------------------FORM--------------------------------- */
 
 .nameBar {
     width: 48%;
@@ -259,6 +271,9 @@ textarea {
     cursor: pointer;
 }
 
+/* ------------------------FORM END-------------------------------- */
+/* ------------------------MIDDLE SECTION END----------------------- */
+
 .toTop {
     background: red;
     border: 5px solid red;
@@ -282,6 +297,8 @@ textarea {
     cursor: pointer;
     
 }
+
+/* ----------------------BOTTOM------------------------------------ */
 
 .bottomSection {
     width: 100%;
